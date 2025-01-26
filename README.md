@@ -9,11 +9,17 @@ For each item found:
 ## To use the script:
 1. Save it to a file, such as read_files.sh
 2. Make the file executable:
+```
 $ chmod +x read_files.sh
+```
 3. Run it, specifying the directory to traverse (result in the console):
+```
 $ ./read_files.sh /path/to/your/directory
+```
 4. For console output to a file, specify the direction:
+```
 $ ./read_files.sh /path/to/your/directory > ./file_out
+```
 
 Code review is Claude 3.5
 
@@ -28,10 +34,16 @@ Code review is Claude 3.5
 ## Чтобы использовать скрипт:
 1. Сохраните его в файл, например read_files.sh
 2. Сделайте файл исполняемым:
+```
 $ chmod +x read_files.sh
+```
 3. Запустите, указав директорию для обхода (результат в консоли):
+```
 $ ./read_files.sh /путь/к/вашей/директории
+```
 4. Для консольного вывода в файл задайте направление:
+```
 $ ./read_files.sh /путь/к/вашей/директории > ./file_out
+```
 
 Code review is Claude 3.5
